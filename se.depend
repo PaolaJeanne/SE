@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1730806567 source:c:\users\pc_user\documents\niveau5\se\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<unistd.h>
+	<stdbool.h>
+
+1731014182 source:c:\users\pc_user\documents\niveau5\systeme d'exploitation\se\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<unistd.h>
+	<stdbool.h>
+	<locale.h>
+	<dirent.h>
+	<sys/stat.h>
+
